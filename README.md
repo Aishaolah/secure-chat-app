@@ -9,7 +9,7 @@ A secure chat application implementing:
 - Man-in-the-middle attack simulation
 
 ## 👥 Team Members
-1. [1] - Project Lead
+1. [1] - .....
 2. [Chelihi Hadjer] - Encryption/Decryption
 3. [3] - PKI & Certificates
 4. [4] - Diffie-Hellman & MITM
